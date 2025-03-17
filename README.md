@@ -6,11 +6,10 @@ Data Scientist / AI research Engineer
 
 I’m a Data Scientist at [Aix-Marseille University](https://www.univ-amu.fr/), working with the [European Digital Innovation Hub](https://digital-strategy.ec.europa.eu/en/activities/edihs). I specialize in turning AI technologies into practical solutions for businesses. My focus includes:
 
-Prototyping & PoC: Computer Vision, NLP, Generative AI, AI Agents
-Model Optimization: Fine-tuning open-source models for specific use cases
-Deployment: Docker-based inference pipelines for cloud integration
-Technological Diagnosis: Aligning AI solutions with business needs
-Passionate about bridging AI research and real-world applications. 
+- Prototyping & PoC: Computer Vision, NLP, Generative AI, AI Agents
+- Model Optimization: Fine-tuning open-source models for specific use cases
+- Deployment: Docker-based inference pipelines for cloud integration
+- Technological Diagnosis: Aligning AI solutions with business needs
 
 Previously, I developed a transfer learning pipeline using images to predict facial paralysis in stroke patients at [Ai-Stroke](https://www.ai-stroke.com/). The pipeline involved preprocessing, image selection, and leveraging facial landmarks from video frames. This approach significantly enhanced prediction performance, particularly in recall and precision.
 
