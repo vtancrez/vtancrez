@@ -11,7 +11,7 @@ I’m a Data Scientist at [Aix-Marseille University](https://www.univ-amu.fr/), 
 - Deployment: Docker-based inference pipelines for cloud integration
 - Technological Diagnosis: Aligning AI solutions with business needs
 
-Previously, I developed a transfer learning pipeline using images to predict facial paralysis in stroke patients at [Ai-Stroke](https://www.ai-stroke.com/). The pipeline involved preprocessing, image selection, and leveraging facial landmarks from video frames. This approach significantly enhanced prediction performance, particularly in recall and precision.
+Previously, I worked as a Data Scientist at [AI-Stroke](https://www.ai-stroke.com/), I developed a transfer learning pipeline using images to predict facial paralysis in stroke patients. The pipeline involved preprocessing, image selection, and leveraging facial landmarks from video frames. This approach significantly enhanced prediction performance, particularly in recall and precision.
 
 * 🌍  I'm based in Marseille
 * ✉️  You can contact me at [victor.tancrez@gmail.com](mailto:victor.tancrez@gmail.com)
