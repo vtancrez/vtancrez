@@ -4,7 +4,13 @@ Hi 👋 My name is Victor Tancrez
 Data Scientist / AI research Engineer
 -------------------------------------
 
-I’m a Data Scientist working at [Aix-Marseille University](https://www.univ-amu.fr/)for the  [European Digital Innovation Hub](https://digital-strategy.ec.europa.eu/en/activities/edihs), I have a passion for turning complex AI technologies into practical solutions that businesses can actually use. My work revolves around helping organizations unlock the potential of artificial intelligence by designing, optimizing, and deploying cutting-edge systems tailored to their specific needs. Right now, I focus on four key areas: Prototyping and Proof of Concept (PoC): I build advanced prototypes in fields like Computer Vision, Natural Language Processing (NLP), Generative AI, and Intelligent Agents. These prototypes help test ideas and show how AI can solve real-world problems before we commit to full-scale development. Model Optimization: I specialize in fine-tuning open-source models to make them work better for specific datasets or use cases. This step is crucial to ensure the AI performs accurately and efficiently in real-world scenarios. Deployment: Once the models are ready, I take care of deploying them into production. I use tools like Docker to create optimized inference pipelines that integrate smoothly into cloud environments, making sure everything runs reliably and scales as needed. Technological Diagnosis: Before diving into any project, I always start by understanding the business needs. By analyzing challenges and opportunities, I identify where AI can add the most value and align with strategic goals. My goal is to bridge the gap between theoretical AI research and practical applications, ensuring that the solutions I deliver are not only innovative but also impactful and aligned with what the business truly needs.
+I’m a Data Scientist at [Aix-Marseille University](https://www.univ-amu.fr/), working with the [European Digital Innovation Hub](https://digital-strategy.ec.europa.eu/en/activities/edihs). I specialize in turning AI technologies into practical solutions for businesses. My focus includes:
+
+Prototyping & PoC: Computer Vision, NLP, Generative AI, AI Agents
+Model Optimization: Fine-tuning open-source models for specific use cases
+Deployment: Docker-based inference pipelines for cloud integration
+Technological Diagnosis: Aligning AI solutions with business needs
+Passionate about bridging AI research and real-world applications. 
 
 * 🌍  I'm based in Marseille
 * ✉️  You can contact me at [victor.tancrez@gmail.com](mailto:victor.tancrez@gmail.com)
